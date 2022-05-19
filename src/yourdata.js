@@ -32,7 +32,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Bringing my photography and art skills to coding. I care about good design, inclusion and representation for all in tech.",
+    "Full-Stack Engineer with a background in the Financial Services industry. I pride myself on effective communication and my ability to learn new technologies.",
 
   //Contact Email
   contactEmail: "mitchgemma@gmail.com",
@@ -41,17 +41,6 @@ export default {
 
   // Work Section ------------------------
   projects: [
-    // {
-    //   title: "Tavern Brawl", //Project Title - Add Your Project Title Here
-    //   para:
-    //     "A Fantasy Choose Your Own Adventure text-based game that allows a player to select different paths with win and lose conditions. Uses HTML, CSS and Javascript", // Add Your Service Type Here
-    //   //Project Image - Add Your Project Image Here
-    //   imageSrc:
-    //     "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-    //   //Project URL - Add Your Project Url Here
-    //   // url: "steviemilitello.github.io/tavern-brawl/",
-    //   // codeUrl: "https://github.com/steviemilitello/tavern-brawl"
-    // },
     {
       title: "Crypto Tracker", //Project Title - Add Your Project Title Here
       para:
@@ -100,11 +89,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Pivoting to Software Engineering after over 10 years of working in Non-Profits.",
+    "Pivoting to Software Engineering after working various internships and spending about in a year in financial services. During my time in financial services, I was exposed to Cryptocurrency. Learning about Cryptocurrency is what sparked my interest in software, and showed me the power of software engineering.",
   aboutParaTwo:
-    "I am a creative with a background in Art, Photography and Film who is passionate about bringing good design, diversity and inclusivity to the Software Engineering world. I believe everyone should have access to websites & apps, and representation for all types of people in the tech world.",
+    "Working in Financial Services allowed me to hone my interpersonal and soft skills. It also enabled me to continue building my problem-solving skills, each phone call being a new problem needing a new solution. I am a collaborative worker and am passionate about helping others and love seeing others succeed.",
   aboutParaThree:
-    "I am passionate about all forms of art and entertainment, and am bringing my creativity and knowledge to Tech.",
+    "Aside from work, I enjoy all things that involve getting outside and being active. During the colder months I love to get outside and snowboard, and during the warmer months I love getting on the trails and hiking or, getting on the links to play some golf.",
   aboutImage:
     "https://i.imgur.com/p7kAfaU.jpg",
 
