@@ -21,7 +21,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "Stevie (she/her)",
+  name: "Mitch",
   headerTagline: [
     //Line 1 For Header
     "Software Engineer",
@@ -35,7 +35,7 @@ export default {
     "Bringing my photography and art skills to coding. I care about good design, inclusion and representation for all in tech.",
 
   //Contact Email
-  contactEmail: "steviemilitello@gmail.com",
+  contactEmail: "mitchgemma@gmail.com",
 
   // End Header Details -----------------------
 
@@ -53,34 +53,34 @@ export default {
     //   // codeUrl: "https://github.com/steviemilitello/tavern-brawl"
     // },
     {
-      title: "TTRPG Tracker", //Project Title - Add Your Project Title Here
+      title: "Crypto Tracker", //Project Title - Add Your Project Title Here
       para:
-        "A full CRUD App that allows a user to keep track of their tabletop RPG book collection. Uses MongoDB/Mongoose, Express, Liquid & Node.js. Styled with Bootstrap.", // Add Your Service Type Here
+        "A full CRUD App made as a team of 2 that allows a user to keep track of their crypto portfolios and stay up-to-date with crypto prices and news. Uses MongoDB/Mongoose, Express, React & Node.js. Styled with Bootstrap.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.imgur.com/w8yyQQY.png",
+        "https://i.imgur.com/BpGUHRF.png",
       //Project URL - Add Your Project Url Here
-      url: "https://ttrpgtracker.herokuapp.com/",
-      codeUrl: "https://github.com/steviemilitello/ttrpg-tracker"
+      url: "https://cryptotrackrr.herokuapp.com/",
+      codeUrl: "https://github.com/mitchgemma/CryptoTracker-Client",
     },
     {
-      title: "Ghostbustr", //Project Title - Add Your Project Title Here
+      title: "Caddy-Shaq", //Project Title - Add Your Project Title Here
       para:
-        "A full CRUD app with an API and Client made with a team of 4 that allows a user to view haunted locales, create their own locales and add visits to the locales. Uses MongoDB/Mongoose, Express, React & Node.js. Styled with Bootstrap.", // Add Your Service Type Here
+        "A full CRUD app that allows a user to create their favorite golf courses and track how they shot during their recent rounds. Uses MongoDB/Mongoose, Express, Liquid & Node.js. Styled with Bootstrap.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.imgur.com/2Es1SQS.png",
+        "https://i.imgur.com/Gql9mih.png",
       //Project URL - Add Your Project Url Here
       url: "https://go-ghostbustr-app.herokuapp.com/",
       codeUrl: "https://github.com/steviemilitello/ghostbustr-client"
     },
     {
-      title: "Check My Fit", //Project Title - Add Your Project Title Here
+      title: "Connect Four", //Project Title - Add Your Project Title Here
       para:
-        "A full CRUD app with an API and Client made with a team of 2 that allows a user to view outfits, create outfits, tag their outfits, view outfits by tags, vote on other user's outfits and comment on outfits. Uses MongoDB/Mongoose, Express, React & Node.js. Styled with Bootstrap.", // Add Your Service Type Here
+        "A front end web game allowing 2 users to play a game of Connect Four. Uses HTML, CSS, and Bootstrap.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://i.imgur.com/uq9nPWj.png",
+        "https://i.imgur.com/1dSYUqw.png",
       //Project URL - Add Your Project Url Here
       url: "https://check-my-fit.herokuapp.com/",
       codeUrl: "https://github.com/steviemilitello/check-my-fit-client"
@@ -106,7 +106,7 @@ export default {
   aboutParaThree:
     "I am passionate about all forms of art and entertainment, and am bringing my creativity and knowledge to Tech.",
   aboutImage:
-    "https://i.imgur.com/ZcOAdSm.jpg",
+    "https://i.imgur.com/p7kAfaU.jpg",
 
   //   End About Section ---------------------
 
