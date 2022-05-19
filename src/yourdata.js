@@ -171,10 +171,10 @@ export default {
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon,
-      url: "https://github.com/steviemilitello" },
+      url: "https://github.com/mitchgemma" },
     {
       img: linkedinIcon,
-      url: "https://www.linkedin.com/in/stevie-militello/",
+      url: "https://www.linkedin.com/in/mitchell-gemma",
     },
     // {
     //   img: dribbbleIcon,
