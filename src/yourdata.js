@@ -95,7 +95,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I am pivoting to Software Engineering after working various internships and spending about a year in financial services. Software engineering has opened up a world of endless learning opportunities for me and has allowed me to combine my technical skills with my creativity .",
+    "I am pivoting to Software Engineering after working various internships and spending about a year in financial services. Software engineering has opened up a world of endless learning opportunities for me and has allowed me to combine my technical and problem-solving skills with my creativity.",
   aboutParaTwo:
     "Working in Financial Services allowed me to hone my interpersonal and soft skills, and I was able to learn how to break-down complex financial solutions into simple explanations for the client. It also enabled me to continue building my problem-solving skills, each phone call being a new problem needing a new solution. I am a collaborative worker and am passionate about helping others and love seeing others succeed.",
   aboutParaThree:
