@@ -8,6 +8,11 @@ import pythonIcon from "./images/python.svg"
 import reactIcon from "./images/react.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
+import expressIcon from "./images/express.svg"
+import mongoIcon from "./images/mongo.svg"
+import djangoIcon from "./images/django.svg"
+import postgresqlIcon from "./images/postgresql.svg"
+import gitIcon from "./images/git.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -60,8 +65,8 @@ export default {
       imageSrc:
         "https://i.imgur.com/Gql9mih.png",
       //Project URL - Add Your Project Url Here
-      url: "https://go-ghostbustr-app.herokuapp.com/",
-      codeUrl: "https://github.com/steviemilitello/ghostbustr-client"
+      url: "https://caddyshaq.herokuapp.com/",
+      codeUrl: "https://github.com/mitchgemma/Caddy-Shaq"
     },
     {
       title: "Connect Four", //Project Title - Add Your Project Title Here
@@ -71,8 +76,8 @@ export default {
       imageSrc:
         "https://i.imgur.com/1dSYUqw.png",
       //Project URL - Add Your Project Url Here
-      url: "https://check-my-fit.herokuapp.com/",
-      codeUrl: "https://github.com/steviemilitello/check-my-fit-client"
+      url: "https://mitchgemma.github.io/Connect-4/",
+      codeUrl: "https://github.com/mitchgemma/Connect-4"
     },
     /*
     If You Want To Add More Project just Copy and Paste This At The End
@@ -93,7 +98,7 @@ export default {
   aboutParaTwo:
     "Working in Financial Services allowed me to hone my interpersonal and soft skills. It also enabled me to continue building my problem-solving skills, each phone call being a new problem needing a new solution. I am a collaborative worker and am passionate about helping others and love seeing others succeed.",
   aboutParaThree:
-    "Aside from work, I enjoy all things that involve getting outside and being active. During the colder months I love to get outside and snowboard, and during the warmer months I love getting on the trails and hiking or, getting on the links to play some golf.",
+    "Aside from work, I enjoy all things that involve getting outside and being active. During the colder months I love to get outside and snowboard, and during the warmer months I love getting on the trails and hiking, or getting on the links to play some golf.",
   aboutImage:
     "https://i.imgur.com/p7kAfaU.jpg",
 
@@ -132,22 +137,37 @@ export default {
     {
       img: nodeIcon,
       para:
-        "Node.js, Express",
+        "Node.js",
     },
     {
-      img: "https://i.imgur.com/VTphEMz.png",
+      img: expressIcon,
       para:
-        "MongoDB, Mongoose",
+        "Express",
+    },
+    {
+      img: mongoIcon,
+      para:
+        "MongoDB",
     },
     {
       img: pythonIcon,
       para:
-        "Python, Django",
+        "Python",
     },
     {
-      img: "https://i.imgur.com/SgjUoD3.png",
+      img: djangoIcon,
       para:
-        "PostgreSQL, SQL",
+        "Django",
+    },
+    {
+      img: postgresqlIcon,
+      para:
+        "PostgreSQL",
+    },
+    {
+      img: gitIcon,
+      para:
+        "Git",
     },
     {
       img: codeIcon,
