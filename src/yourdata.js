@@ -13,6 +13,7 @@ import mongoIcon from "./images/mongo.svg"
 import djangoIcon from "./images/django.svg"
 import postgresqlIcon from "./images/postgresql.svg"
 import gitIcon from "./images/git.svg"
+import phpIcon from "./images/php.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -94,9 +95,9 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Pivoting to Software Engineering after working various internships and spending about in a year in financial services. During my time in financial services, I was exposed to Cryptocurrency. Learning about Cryptocurrency is what sparked my interest in software, and showed me the power of software engineering.",
+    "I am pivoting to Software Engineering after working various internships and spending about a year in financial services. Software engineering has opened up a world of endless learning opportunities for me and has allowed me to combine my technical skills with my creativity .",
   aboutParaTwo:
-    "Working in Financial Services allowed me to hone my interpersonal and soft skills. It also enabled me to continue building my problem-solving skills, each phone call being a new problem needing a new solution. I am a collaborative worker and am passionate about helping others and love seeing others succeed.",
+    "Working in Financial Services allowed me to hone my interpersonal and soft skills, and I was able to learn how to break-down complex financial solutions into simple explanations for the client. It also enabled me to continue building my problem-solving skills, each phone call being a new problem needing a new solution. I am a collaborative worker and am passionate about helping others and love seeing others succeed.",
   aboutParaThree:
     "Aside from work, I enjoy all things that involve getting outside and being active. During the colder months I love to get outside and snowboard, and during the warmer months I love getting on the trails and hiking, or getting on the links to play some golf.",
   aboutImage:
@@ -168,6 +169,11 @@ export default {
       img: gitIcon,
       para:
         "Git",
+    },
+    {
+      img: phpIcon,
+      para:
+        "PHP",
     },
     {
       img: codeIcon,
