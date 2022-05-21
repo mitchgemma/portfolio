@@ -38,7 +38,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "TEST FOR DEPLOYMENT Full-Stack Engineer with a background in the Financial Services industry. I pride myself on effective communication and my ability to learn new technologies.",
+    "Full-Stack Engineer with a background in the Financial Services industry. I pride myself on effective communication and my ability to learn new technologies.",
 
   //Contact Email
   contactEmail: "mitchgemma@gmail.com",
