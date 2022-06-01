@@ -49,36 +49,30 @@ export default {
   projects: [
     {
       title: "Crypto Tracker", //Project Title - Add Your Project Title Here
-      para:
-        "A full CRUD App made as a team of 2 that allows a user to keep track of their crypto portfolios and stay up-to-date with crypto prices and news. Uses MongoDB/Mongoose, Express, React & Node.js. Styled with Bootstrap.", // Add Your Service Type Here
+      para: "A full CRUD App made as a team of 2 that allows a user to keep track of their crypto portfolios and stay up-to-date with crypto prices and news. Uses MongoDB/Mongoose, Express, React & Node.js. Styled with Bootstrap.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://i.imgur.com/BpGUHRF.png",
+      imageSrc: "https://i.imgur.com/BpGUHRF.png",
       //Project URL - Add Your Project Url Here
       url: "https://cryptotrackrr.herokuapp.com/",
       codeUrl: "https://github.com/mitchgemma/CryptoTracker-Client",
     },
     {
       title: "Caddy-Shaq", //Project Title - Add Your Project Title Here
-      para:
-        "A full CRUD app that allows a user to create their favorite golf courses and track how they shot during their recent rounds. Uses MongoDB/Mongoose, Express, Liquid & Node.js. Styled with Bootstrap.", // Add Your Service Type Here
+      para: "A full CRUD app that allows a user to create their favorite golf courses and track how they shot during their recent rounds. Uses MongoDB/Mongoose, Express, Liquid & Node.js. Styled with Bootstrap.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://i.imgur.com/Gql9mih.png",
+      imageSrc: "https://i.imgur.com/Gql9mih.png",
       //Project URL - Add Your Project Url Here
       url: "https://caddyshaq.herokuapp.com/",
-      codeUrl: "https://github.com/mitchgemma/Caddy-Shaq"
+      codeUrl: "https://github.com/mitchgemma/Caddy-Shaq",
     },
     {
       title: "Connect Four", //Project Title - Add Your Project Title Here
-      para:
-        "A front end web game allowing 2 users to play a game of Connect Four. Uses HTML, CSS, and Bootstrap.", // Add Your Service Type Here
+      para: "A front end web game allowing 2 users to play a game of Connect Four. Uses HTML, CSS, and JavaScript.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://i.imgur.com/1dSYUqw.png",
+      imageSrc: "https://i.imgur.com/1dSYUqw.png",
       //Project URL - Add Your Project Url Here
       url: "https://mitchgemma.github.io/Connect-4/",
-      codeUrl: "https://github.com/mitchgemma/Connect-4"
+      codeUrl: "https://github.com/mitchgemma/Connect-4",
     },
     /*
     If You Want To Add More Project just Copy and Paste This At The End
@@ -100,8 +94,7 @@ export default {
     "Working in Financial Services allowed me to hone my interpersonal and soft skills, and I was able to learn how to break-down complex financial solutions into simple explanations for the client. It also enabled me to continue building my problem-solving skills, each phone call being a new problem needing a new solution. I am a collaborative worker and am passionate about helping others and love seeing others succeed.",
   aboutParaThree:
     "Aside from work, I enjoy all things that involve getting outside and being active. During the colder months I love to get outside and snowboard, and during the warmer months I love getting on the trails and hiking, or getting on the links to play some golf.",
-  aboutImage:
-    "https://i.imgur.com/p7kAfaU.jpg",
+  aboutImage: "https://i.imgur.com/p7kAfaU.jpg",
 
   //   End About Section ---------------------
 
@@ -112,73 +105,59 @@ export default {
   skills: [
     {
       img: htmlIcon,
-      para:
-        "HTML5",
+      para: "HTML5",
     },
     {
       img: cssIcon,
-      para:
-        "CSS",
+      para: "CSS",
     },
     {
       img: jsIcon,
-      para:
-        "JavaScript",
+      para: "JavaScript",
     },
     {
       img: cssBootstrapIcon,
-      para:
-        "Bootstrap",
+      para: "Bootstrap",
     },
     {
       img: reactIcon,
-      para:
-        "React",
+      para: "React",
     },
     {
       img: nodeIcon,
-      para:
-        "Node.js",
+      para: "Node.js",
     },
     {
       img: expressIcon,
-      para:
-        "Express",
+      para: "Express",
     },
     {
       img: mongoIcon,
-      para:
-        "MongoDB",
+      para: "MongoDB",
     },
     {
       img: pythonIcon,
-      para:
-        "Python",
+      para: "Python",
     },
     {
       img: djangoIcon,
-      para:
-        "Django",
+      para: "Django",
     },
     {
       img: postgresqlIcon,
-      para:
-        "PostgreSQL",
+      para: "PostgreSQL",
     },
     {
       img: gitIcon,
-      para:
-        "Git",
+      para: "Git",
     },
     {
       img: phpIcon,
-      para:
-        "PHP",
+      para: "PHP",
     },
     {
       img: codeIcon,
-      para:
-        "Object Oriented Programming, MVC Pattern, Rest APIs",
+      para: "Object Oriented Programming, MVC Pattern, Rest APIs",
     },
   ],
 
@@ -196,8 +175,7 @@ export default {
   contactSubHeading: "Let's connect",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon,
-      url: "https://github.com/mitchgemma" },
+    { img: githubIcon, url: "https://github.com/mitchgemma" },
     {
       img: linkedinIcon,
       url: "https://www.linkedin.com/in/mitchell-gemma",
